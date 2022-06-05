@@ -1,3 +1,14 @@
+# Das Buch vom Lied
+Eine Sammlung von Liedern zusammengestellt und zum Teil selbst geschrieben und komponiert von mir und Freunden und Familie. 
+Klau wenn du magst viel Spaß beim Spielen und Singen. 
+
+Die Grundstuktur habe ich selbst geklaut (https://github.com/bockstaller/Liederbuch) und ein bisschen angepasst. 
+Vielen Dank an die Ersteller des Templates an dieser Stelle. Großartige Arbeit !
+
+
+
+
+
 # Liederbuch Template
 
 ## Einleitung
